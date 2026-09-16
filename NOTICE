@@ -1,0 +1,10 @@
+Jool - SIIT and NAT64 for Linux
+Copyright (C) 2011 NIC Mexico <jool@nic.mx>
+
+Jool is free software distributed under version 2 of the GNU General
+Public License. Jool is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+This product includes unmodified Jool kernel modules built from the
+upstream Jool source release identified in metadata.json and SOURCE.

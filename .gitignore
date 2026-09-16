@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.swp
+*.log
+output*/
+*.tar.gz
+*.spdx.json
+*.sigstore.json
+SHA256SUMS
